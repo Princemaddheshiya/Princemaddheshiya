@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Maddheshiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princemaddheshiya&label=Profile%20views&color=0e75b6&style=flat" alt="princemaddheshiya" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SearchMe-AI**
 
-- 🌱 I’m currently learning **React ,Web development**
+- 🌱 I’m currently learning **ReactJs,ExpressJs,NodeJs ,Web development**
 
 - 💬 Ask me about **c++**
 
